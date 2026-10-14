@@ -53,3 +53,6 @@ The app creates `hr_records.db` locally on first run. To reset all demo records,
 - It has no Workday tenant or actual Workday API integration. Lifecycle approval logic, UAT materials, and cutover materials are simulated learning artefacts, not actual Workday business-process configuration or production cutover tooling.
 - Organization manager IDs are illustrative references; employee manager relationships are validated separately.
 - Use synthetic data only; do not upload real employee personal information.
+## Application Screenshot
+
+![Core HCM Simulation Dashboard](screenshots/core-hcm-dashboard.png)
