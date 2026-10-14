@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generic SOAP learning example only; not a Workday endpoint or valid Workday request. -->
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+  <soap:Header />
+  <soap:Body>
+    <GetEmployeeRequest xmlns="urn:example:hr-learning">
+      <EmployeeID>E1001</EmployeeID>
+    </GetEmployeeRequest>
+  </soap:Body>
+</soap:Envelope>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Employee>
+  <EmployeeID>E1001</EmployeeID>
+  <FirstName>Aarav</FirstName>
+  <LastName>Sharma</LastName>
+  <Department>Operations</Department>
+  <ManagerID>E1000</ManagerID>
+  <JobProfile>HR Analyst</JobProfile>
+  <PositionID>POS-101</PositionID>
+  <Location>Bengaluru</Location>
+  <EmploymentStatus>Active</EmploymentStatus>
+</Employee>

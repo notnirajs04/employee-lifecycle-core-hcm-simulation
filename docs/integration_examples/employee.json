@@ -1,0 +1,11 @@
+{
+  "employee_id": "E1001",
+  "first_name": "Aarav",
+  "last_name": "Sharma",
+  "department": "Operations",
+  "manager_id": "E1000",
+  "job_profile": "HR Analyst",
+  "position_id": "POS-101",
+  "location": "Bengaluru",
+  "employment_status": "Active"
+}

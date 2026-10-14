@@ -1,0 +1,5 @@
+employee_id,first_name,last_name,department,job_profile,manager_id,location,employment_status
+E2001,Dev,Shah,Technology,Analyst,,Bengaluru,Active
+E2002,Nia,Kapoor,Technology,Associate,E999,Bengaluru,Active
+E2002,Sam,Das,Finance,Analyst,E2001,Chennai,Active
+E2004,,Iyer,Finance,Associate,E2001,Chennai,Working

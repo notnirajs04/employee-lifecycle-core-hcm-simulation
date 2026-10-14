@@ -1,0 +1,6 @@
+employee_id,first_name,last_name,department,job_profile,manager_id,location,employment_status
+E1001,Asha,Rao,Human Resources,HR Analyst,,Bengaluru,Active
+E1002,Ravi,Kumar,Human Resources,HR Associate,E1001,Bengaluru,Active
+E1003,Meera,Nair,Finance,Finance Analyst,E1001,Chennai,Active
+E1004,Arjun,Menon,Technology,Software Engineer,E1002,Hyderabad,On Leave
+E1005,Sana,Thomas,Technology,QA Analyst,E1002,Bengaluru,Pending

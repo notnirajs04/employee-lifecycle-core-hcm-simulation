@@ -1,0 +1,17 @@
+# Python environments
+.venv/
+venv/
+
+# Python and test caches
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
